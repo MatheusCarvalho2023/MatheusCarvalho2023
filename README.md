@@ -4,12 +4,14 @@
 - 📫 How to reach me: matheus_mcs@hotmail.com
 - ⚡ Fun fact: I'm a musician and love to play guitar and keyboard.
 
-## Skills
-- C#
-- JavaScript
-- HTML/CSS
-- Git
-- UX / UI
+## Softwares and tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode)](https://skillicons.dev)
+
+## Languages
+[![My Skills](https://skillicons.dev/icons?i=cs,js,html,css)](https://skillicons.dev)
+
+## Libraries and Frameworks
+[![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
 
 <!---
 MatheusCarvalho2023/MatheusCarvalho2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
