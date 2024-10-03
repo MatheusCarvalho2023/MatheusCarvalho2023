@@ -1,8 +1,8 @@
--👋 Hi, I’m Matheus Santos, a passionate student from Waterloo, ON. I love coding and building cool projects.
--🌱 I’m currently learning C#, SQL, and Flutter.
--💼 I’m also working as a freelancer on a React and Next.js project.
--📫 How to reach me: matheus_mcs@hotmail.com
--⚡ Fun fact: I'm a musician and love to play guitar and keyboard.
+- 👋 Hi, I’m Matheus Santos, a passionate student from Waterloo, ON. I love coding and building cool projects.
+- 🌱 I’m currently learning C#, SQL, and Flutter.
+- 💼 I’m also working as a freelancer on a React and Next.js project.
+- 📫 How to reach me: matheus_mcs@hotmail.com
+- ⚡ Fun fact: I'm a musician and love to play guitar and keyboard.
 
 ## Softwares and tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode,nodejs,mongodb,mysql,sqlite,flutter)](https://skillicons.dev)
