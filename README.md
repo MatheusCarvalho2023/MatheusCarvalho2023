@@ -5,13 +5,13 @@
 - ⚡ Fun fact: I'm a musician and love to play guitar and keyboard.
 
 ## Softwares and tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode,nodejs,mongodb,mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode,nodejs,mongodb,mysql,sqlite,flutter)](https://skillicons.dev)
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=c,cs,js,html,css,dart)](https://skillicons.dev)
 
 ## Libraries and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=dotnet,flutter,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,bootstrap,tailwind,react)](https://skillicons.dev)
 
 <!---
 MatheusCarvalho2023/MatheusCarvalho2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
