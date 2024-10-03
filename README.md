@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cs,js,html,css,dart)](https://skillicons.dev)
 
 ## Libraries and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=dotnet,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,flutter,bootstrap,tailwind)](https://skillicons.dev)
 
 <!---
 MatheusCarvalho2023/MatheusCarvalho2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
