@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Matheus Santos, a passionate student from Waterloo, ON. I love coding and building cool projects.
 - 🌱 I’m currently learning C#, SQL, and Flutter.
 - 💼 I’m also working as a freelancer on a React and Next.js project.
+- 🎮 Recently, I participated in a Code Jam where I developed a game using Unity, which enhanced my skills in game development and teamwork.
 - 📫 How to reach me: matheus_mcs@hotmail.com
 - ⚡ Fun fact: I'm a musician and love to play guitar and keyboard.
 
