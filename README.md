@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I'm a musician and love to play guitar and keyboard.
 
 ## Softwares and tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode,nodejs,mongodb,mysql,sqlite,flutter,unity,azuredevops)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,vscode,nodejs,mongodb,mysql,sqlite,flutter,unity,azure)](https://skillicons.dev)
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=c,cs,js,html,css,dart)](https://skillicons.dev)
